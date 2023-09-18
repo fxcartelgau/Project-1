@@ -72,10 +72,10 @@ p {
 }
 
 .card-img-top {
-   border-top-left-radius: 2vw;
-   border-top-right-radius: 2vw;
-   border-bottom-left-radius: 2vw;
-   border-bottom-right-radius: 2vw;
+   border-top-left-radius: 2vw !important;
+   border-top-right-radius: 2vw !important;
+   border-bottom-left-radius: 2vw !important;
+   border-bottom-right-radius: 2vw !important;
 }
 
 h2 {

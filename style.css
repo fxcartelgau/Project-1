@@ -1,0 +1,113 @@
+.d-block {
+    width: 60vw;
+    height: 60vw;
+}
+
+img {
+    width: 20px;
+    height: 25vw;
+}
+
+.seaso2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.largepic {
+    width: 100vw;
+    height: 30vw;
+}
+
+.igpicture {
+    width: 3vw;
+    height: 3vw;
+    border-color: white;
+}
+
+.facebook {
+    width: 3vw;
+    height: 3vw;
+}
+
+.twitter {
+    width: 3vw;
+    height: 3vw;
+}
+
+.youtube {
+    width: 3vw;
+    height: 3vw;
+}
+
+/* Collection Section */
+.richboyz {
+    background-color: black;
+    color: white;
+    font-size: 4vw;
+    font-family: sans-serif;
+    text-align: start;
+
+}
+
+.s2 {
+    font-size: 3vw;
+    text-align: center;
+    color: gray
+}
+
+p {
+    text-align: center;
+    color: gray;
+}
+
+.puff {
+    text-align: center;
+    color: gray;
+    font-family: serif;
+    font-size: 30px;
+}
+
+.card-img-top {
+   border-top-left-radius: 2vw;
+   border-top-right-radius: 2vw;
+   border-bottom-left-radius: 2vw;
+   border-bottom-right-radius: 2vw;
+}
+
+h2 {
+    font-size: 3vw;
+    text-align: center;
+    color: gray
+}
+
+.form {
+    font: bolder;
+    margin-top: 5px;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+.first{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.font{
+    text-align: center;
+    color: gray;
+    font-family: serif;
+    font-size: 17px;
+}
+.fixe{
+    font-size: 15px;
+}
+.size{
+    width: 60vw;
+    height: 50vw;
+    align-items: center;
+}
